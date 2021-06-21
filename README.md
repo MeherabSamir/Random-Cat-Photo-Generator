@@ -12,9 +12,6 @@ Learning Outcome
 
 <br>
 
-![Github][Github-sheild]
-![][Code-sheild]
-
 ### Preview Image
 <br>
 
@@ -43,7 +40,3 @@ Contact me - [meherabsamir.me@gmail.com](mailto:meherabsamir.me@gmail.com)
 [Facebook]:https://www.facebook.com/mohammadsamir.meherab/
 
 [Facebook-sheild]: https://img.shields.io/badge/Facebook-Meherab%20Samir-%233690ff?logo=facebook&style=social
-
-[Github-sheild]:https://img.shields.io/github/watchers/MeherabSamir/Random-Cat-Photo-Generator?style=social
-
-[Code-sheild]:https://img.shields.io/tokei/lines/github/MeherabSamir/Random-Cat-Photo-Generator?color=%233690ff&logo=github?logo=appveyor
